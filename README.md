@@ -30,15 +30,6 @@ Aqui estão alguns dos meus projetos principais:
 
 ## Estatísticas do GitHub
 
- "pt_BR" => [
-        "Total Contributions" => "Total de Contribuições",
-        "Current Streak" => "Sequência Atual",
-        "Longest Streak" => "Maior Sequência",
-        "Week Streak" => "Sequência Semanal",
-        "Longest Week Streak" => "Maior Sequência Semanal",
-        "Present" => "Presente",
-        "Excluding {days}" => "Exceto {days}",
-
 ![fernando-nunes-dev's Stats](https://github-readme-stats.vercel.app/api?username=fernando-nunes-dev&theme=algolia&show_icons=true&hide_border=true&count_private=true)
 
 ![fernando-nunes-dev's Streak](https://github-readme-streak-stats.herokuapp.com/?user=fernando-nunes-dev&theme=algolia&hide_border=true)
