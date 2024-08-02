@@ -30,6 +30,10 @@ Aqui estão alguns dos meus projetos principais:
 
 ## Estatísticas do GitHub
 
+![fernando-nunes-dev's Stats](https://github-readme-stats.vercel.app/api?username=fernando-nunes-dev&theme=algolia&show_icons=true&hide_border=true&count_private=true)
+
+![fernando-nunes-dev's Streak](https://github-readme-streak-stats.herokuapp.com/?user=fernando-nunes-dev&theme=algolia&hide_border=true)
+
 ![fernando-nunes-dev's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fernando-nunes-dev&theme=algolia&show_icons=true&hide_border=true&layout=compact)
 
 Obrigado por visitar meu perfil! Vamos nos conectar e construir algo incrível juntos! 🚀
