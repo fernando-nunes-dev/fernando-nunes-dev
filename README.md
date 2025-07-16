@@ -41,7 +41,7 @@ Sou uma pessoa proativa, gosto de resolver problemas de forma criativa e tenho f
 
 ## 📬 Como entrar em contato
 
-* ✉️ Email: [fernandonunes.dev@gmail.com](mailto:fernandonunes.dev@gmail.com)
+* ✉️ Email: [fernandonunes198326@gmail.com](mailto:fernandonunes.dev@gmail.com)
 * 💼 LinkedIn: [linkedin.com/in/fernandonunesdev](https://linkedin.com/in/fernandonunesdev)
 * 📁 GitHub: [github.com/fernandonunesdev](https://github.com/fernandonunesdev)
 
