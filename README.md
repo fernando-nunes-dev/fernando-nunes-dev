@@ -1,32 +1,54 @@
-# Olá, eu sou Fernando_nunes_dev 👋
+👋 Olá! Bem-vindo ao meu GitHub
 
-Bem-vindo ao meu perfil no GitHub! Aqui você encontrará informações sobre mim e meus projetos.
+Este é meu repositório especial com informações sobre mim e meus projetos.
 
-## Sobre Mim
+👤 Sobre mim
 
-👨‍💻 Desenvolvedor Front End e Back End.
+Olá! Meu nome é Fernando Nunes e tenho mais de 20 anos de experiência no mercado de trabalho, sendo 15 deles na área de Comunicação Visual. Ao longo da minha trajetória, atuei com atendimento ao cliente, arte-final, acabamento e operação de plotters.
 
-🎓 Em formação no curso de Sistemas de Informação.
+Nos últimos anos, trabalhei como motorista parceiro da Uber, onde fui reconhecido com a avaliação máxima (Platinum 5 estrelas), demonstrando meu comprometimento, empatia e profissionalismo.
 
-## Habilidades
+Atualmente, estou em transição de carreira para a área de tecnologia. Sou estudante de Análise e Desenvolvimento de Sistemas e estou me aprofundando em Desenvolvimento Web, com foco em HTML, CSS, JavaScript e React. Tenho interesse em criar interfaces intuitivas e funcionais, além de aprender sobre cloud computing.
 
-- **Linguagens de Programação:** [Liste aqui as linguagens que você domina, por exemplo, JavaScript, Python, Java, etc.]
-- **Frameworks e Bibliotecas:** [Liste aqui os frameworks e bibliotecas que você usa, por exemplo, React, Angular, Django, etc.]
-- **Ferramentas e Plataformas:** [Liste aqui as ferramentas e plataformas que você usa, por exemplo, Git, Docker, AWS, etc.]
-- **Outras Habilidades:** [Liste outras habilidades relevantes, por exemplo, desenvolvimento ágil, design de UX/UI, etc.]
+Sou uma pessoa proativa, gosto de resolver problemas de forma criativa e tenho facilidade em trabalhar em equipe. Estou sempre em busca de novos aprendizados e desafios que me ajudem a evoluir como profissional.
 
-## Projetos
+🛠️ Habilidades
 
-Aqui estão alguns dos meus projetos principais:
+HTML5 e CSS3
 
-1. **[IRON MARKS]**: Uma breve descrição do projeto e seu propósito. https://github.com/fernando-nunes-dev/fernando_nunes_dev-meus_projetos/tree/main/IRON%20MARKS.
-2. **[X-DEVS]**: Uma breve descrição do projeto e seu propósito. https://github.com/fernando-nunes-dev/fernando_nunes_dev-meus_projetos/tree/main/X-DEVS.
+JavaScript (básico/intermediário)
 
-## Contato
+React (em aprendizado)
 
-📧 Email: fernandonunes198326@gmail.com
+UI/UX Design (noções iniciais)
 
-🌐 LinkedIn: https://www.linkedin.com/in/fernando-nunes-461901272/
+Lógica de Programação
+
+Git e GitHub (versionamento de código)
+
+Boa comunicação e atendimento ao público
+
+Organização e pontualidade
+
+🚀 Projetos em que estou trabalhando
+
+Meu Diário: página web com HTML semântico e CSS estilizado, desenvolvida como parte de um projeto avaliativo no curso.
+
+Exercícios de Lógica com Node.js: repositório com desafios resolvidos por temas como strings, condicionais e loops.
+
+Portfolio em construção: projeto pessoal onde reunirei todos os meus trabalhos como desenvolvedor.
+
+Em breve, mais projetos serão adicionados!
+
+📬 Como entrar em contato
+
+✉️ Email: fernandonunes.dev@gmail.com
+
+💼 LinkedIn: linkedin.com/in/fernandonunesdev
+
+📁 GitHub: github.com/fernandonunesdev
+
+🌟 Obrigado por visitar meu perfil!
 
 ## Estatísticas do GitHub
 
